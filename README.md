@@ -1,2 +1,3 @@
-# Ignite_Course_ReactJS
-Repo used for the ReacJS bootcamp from Rocketseat 🚀
+# EloGroup_Case_2022
+
+Repo used during a hiring process at EloGroup company.
